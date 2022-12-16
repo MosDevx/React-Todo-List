@@ -142,7 +142,7 @@ To run the project, execute the following command:
 
 
 ```sh
-  npm run dev
+  npm run start
 ```
 
 
